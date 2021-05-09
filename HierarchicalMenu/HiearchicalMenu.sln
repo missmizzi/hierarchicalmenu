@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HierarchicalMenu", "HierarchicalMenu.csproj", "{0F2F2344-E39D-4F18-9E9F-C2977A0365AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{80300561-1615-40B4-B6EF-06B3E8948435}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F2F2344-E39D-4F18-9E9F-C2977A0365AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F2F2344-E39D-4F18-9E9F-C2977A0365AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F2F2344-E39D-4F18-9E9F-C2977A0365AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F2F2344-E39D-4F18-9E9F-C2977A0365AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80300561-1615-40B4-B6EF-06B3E8948435}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80300561-1615-40B4-B6EF-06B3E8948435}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80300561-1615-40B4-B6EF-06B3E8948435}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80300561-1615-40B4-B6EF-06B3E8948435}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {069AD58E-3079-46BA-8148-CAB7720FC65E}
+	EndGlobalSection
+EndGlobal
